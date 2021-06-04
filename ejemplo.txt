@@ -1,5 +1,5 @@
 este es un ejemplo de git
-
+chao
 si sapo hp
-
+hola
 algo más por si las moscas.
