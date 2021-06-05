@@ -3,3 +3,5 @@ este es un ejemplo de git
 si sapo hp
 
 algo más por si las moscas.
+
+una sapa hp rama con rebase.
