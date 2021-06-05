@@ -2,6 +2,8 @@ este es un ejemplo de git
 
 si sapo hp
 
+CREADA LA RAMA PRUEBA
+
 algo más por si las moscas.
 
 malasooo
